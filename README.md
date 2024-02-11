@@ -1,3 +1,11 @@
+CodePen is a web application developed for testing and showcasing user-created HTML, CSS
+and JavaScript code snippets.
+
+
+Users can create code snippets, called "pens," and test them. It is developed using React.js
+and Material UI.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
